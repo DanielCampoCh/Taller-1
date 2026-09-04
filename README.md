@@ -4,19 +4,19 @@
 HTML (HyperText Markup Language) es el lenguaje de marcado estándar de la web. Su función es definir la estructura y el contenido de una página (títulos, párrafos, imágenes, enlaces) mediante etiquetas que el navegador interpreta y muestra.
 
 2. ¿Qué es una etiqueta HTML y las más comunes?
-Es el elemento que marca un contenido e indica cómo interpretarlo; normalmente va en pares de apertura y cierre (<p>...</p>). Comunes: <html>, <head>, <body>, <h1>–<h6>, <p>, <a>, <img>, <div>, <span>, <ul>, <li>, <table>.
+Es el elemento que marca un contenido e indica cómo interpretarlo; normalmente va en pares de apertura y cierr
 
 3. ¿Qué es un atributo y los más comunes?
 Es información adicional dentro de la etiqueta de apertura que modifica su comportamiento, con formato nombre="valor". Comunes: href, src, alt, id, class, style, title, width, height.
 
 4. ¿Qué es CSS y cómo se usa?
-CSS (Cascading Style Sheets) describe la presentación visual del HTML: colores, fuentes, tamaños, espaciado y distribución. Se puede aplicar en línea (atributo style), interno (<style> en el <head>) o externo (archivo .css vinculado con <link>); el externo es el recomendado.
+CSS (Cascading Style Sheets) describe la presentación visual del HTML: colores, fuentes, tamaños, espaciado y distribución. Se puede aplicar en línea (atributo style), interno el externo es el recomendado.
 
 5. ¿Qué es una propiedad en CSS y las más comunes?
 Es la característica del elemento que se quiere modificar, escrita como propiedad: valor;. Comunes: color, background-color, font-size, font-family, text-align, margin, padding, width, border, display.
 
 6. ¿Qué es un selector y qué tipos existen?
-Es el patrón que indica a qué elementos se aplican los estilos. Tipos: de etiqueta (p), de clase (.nombre), de id (#nombre), universal (*), de atributo ([type="text"]), combinadores/descendientes (div p) y pseudo-clases/pseudo-elementos (:hover, ::before).
+Es el patrón que indica a qué elementos se aplican los estilos. Tipos: de etiqueta (p), de clase (.nombre), de id (#nombre), universal (*), pseudo-clases/pseudo-elementos (:hover, ::before).
 
 7. ¿Qué es JavaScript y cómo añade interactividad?
 Es un lenguaje de programación que se ejecuta en el navegador y hace las páginas dinámicas. Responde a eventos (clics, teclado), modifica el HTML y el CSS en tiempo real (manipulación del DOM), valida formularios y consume datos.
